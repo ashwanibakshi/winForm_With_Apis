@@ -5,10 +5,10 @@ For starting node go in the server folder and then run the application.
 But first install the required packages 
 
 Install Packages 
-#### npm install
+ #### -- npm install
 
 Start Application
-#### npm start
+####  -- npm start
 
 Node Application Will Run On 
 #### http://localhost:3000
