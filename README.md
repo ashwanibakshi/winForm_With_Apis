@@ -1,7 +1,11 @@
 # winForm_With_Apis
 
 This is a simple project where we will be consuming node.js api's through windows form.
-For starting node go in the server folder and then run the application using
+For starting node go in the server folder and then run the application.
+But first install the required packages 
+
+Install Packages 
+#### npm install
 
 Start Application
 #### npm start
